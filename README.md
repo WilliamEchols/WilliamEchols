@@ -1,3 +1,4 @@
+```
 [william@github ~]$ lookup
 
              *****                              williamechols@github
@@ -19,3 +20,4 @@
                         *********
 
 [william@github ~]$
+```
