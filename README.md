@@ -1,7 +1,7 @@
 ```
 [william@github ~]$ lookup
 
-             *****                              williamechols@github
+             *****                              william@github
      *,,,** **,,,,,*            *****           --------------------
      *,,,,,,* *,,,,,,**        *,,,,*           OS: Consciousness x86_64
        **,,,,,****,,,,,,*      *,,,,*           Host: Human
